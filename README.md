@@ -1,10 +1,12 @@
 # MLprojectZINE
 
-##DDoS Attack
+## DDoS Attack
+
 DDoS, or Distributed Denial of Service, is a type of cyber attack where multiple systems are used to flood a target system with requests, overwhelming its ability to respond to legitimate requests. This can result in the target system becoming unavailable to its users.
 In a DDoS attack, the attacker uses a botnet, which is a network of compromised systems. These systems are often compromised through malware or vulnerabilities in software. The attacker then sends a flood of requests to the target system, overwhelming its ability to respond.
 
-##Strategies to prevent DDoS Attack
+## Strategies to prevent DDoS Attack
+
 To mitigate the impact of DDoS attacks, organizations can implement various strategies, such as:
 
 1) Using Content Delivery Networks (CDNs): CDNs can help distribute the traffic across multiple servers, reducing the load on the target system.
