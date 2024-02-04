@@ -19,3 +19,40 @@ To mitigate the impact of DDoS attacks, organizations can implement various stra
 
 5) Implementing Failover Mechanisms: Failover mechanisms can help ensure that the target system remains available even if it is overwhelmed by a DDoS attack.
 
+## Project Details
+
+In this project I have implemented five different models for DDoS detection. These algorithms are:
+
+1) Support Vector Machine(SVM)
+   
+2) K-Nearest Neighbors(KNN)
+
+3) Gaussian Naive Bayes(GNB)
+
+4) Random Forests
+
+5) Decision Trees
+
+In this project dataset contains labelled data in which 'Normal' shows No-DDoS while other shows DDoS.
+
+## Evaluation Metrics
+
+**Accuracy**: This metric represents the fraction of correctly classified samples and is a common way to evaluate a model's performance.
+  
+  `Accuracy = (TP + TN) / (TP + TN + FP + FN)`
+
+**Recall**: Also known as sensitivity, recall measures the true positive rate (TPR), indicating the proportion of actual positive values correctly identified.
+  
+  `Recall = TP / (TP + FN)`
+
+**Precision**: Precision, or positive predictive value, measures the consistency of repeated measurements under unchanged conditions.
+  
+  `Precision = TP / (TP + FP)`
+
+**F1 Score**: The F1 score, a harmonic average of recall and precision, is valuable when recall and precision conflict.
+  
+  `F1 Score = 2 * (Recall * Precision) / (Recall + Precision)`
+
+**Confusion Matrix**: The confusion matrix compares predicted and actual values, providing insight into algorithm performance.
+
+   
