@@ -21,7 +21,7 @@ To mitigate the impact of DDoS attacks, organizations can implement various stra
 
 ## Project Details
 
-In this project I have implemented five different models for DDoS detection. These algorithms are:
+In this project I have implemented six different models for DDoS detection. These algorithms are:
 
 1) Support Vector Machine(SVM)
    
@@ -32,6 +32,8 @@ In this project I have implemented five different models for DDoS detection. The
 4) Random Forests
 
 5) Decision Trees
+
+6) Logistic Regression
 
 In this project dataset contains labelled data in which 'Normal' shows No-DDoS while other shows DDoS.
 
